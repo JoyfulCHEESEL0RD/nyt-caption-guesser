@@ -3,6 +3,7 @@
 New York Times “What’s Going On in This Picture?”  
 Description: My project is based on the NYT articles, “What’s Going On in This Picture?”. These articles come out weekly and your goal is to guess the caption of the image. This model's purpose is to guess the caption of an image.
 
+<img src="image-url" alt="Alt Text" width="300" height="200">
 ![IMG_3256](https://github.com/user-attachments/assets/71ba6f42-adf2-44aa-a322-cf0184d9d003)
 
 The Algorithm
