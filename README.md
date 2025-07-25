@@ -4,7 +4,10 @@ New York Times “What’s Going On in This Picture?”
 Description: My project is based on the NYT articles, “What’s Going On in This Picture?”. These articles come out weekly and your goal is to guess the caption of the image. This model's purpose is to guess the caption of an image.
 
 <img src="image-url" alt="Alt Text" width="300" height="200">
+
 ![IMG_3256](https://github.com/user-attachments/assets/71ba6f42-adf2-44aa-a322-cf0184d9d003)
+
+</img>
 
 The Algorithm
 I had to use many different .py files because I had to train, finetune, and also scrape images for my model. Inside my scraping.py file, I had to create a folder full of the html files of the articles. These articles held the image and the captions which I used to train my model. After gathering the data to train my model. I downloaded my model which is Qwen2-VL-2B-Instruct. Then I started training and fine tuning my model. I started by creating the file to pull the information from scraping. Once I finished doing that, I finetuned the model by giving it more data.
