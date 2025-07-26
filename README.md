@@ -1,6 +1,7 @@
 # nyt-caption-guesser
 
 New York Times “What’s Going On in This Picture?”  
+
 Description: My project is based on the NYT articles, “What’s Going On in This Picture?”. These articles come out weekly and your goal is to guess the caption of the image. This model's purpose is to guess the caption of an image.
 
 ![IMG_3256 (1)](https://github.com/user-attachments/assets/84e10030-d44b-4187-b8bc-ef7fb0fefb18)
